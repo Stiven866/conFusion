@@ -79,8 +79,11 @@ body {
   .modal-title {
     color: floralwhite;
   }
+  .close {
+    color: floralwhite;
+  }
 }
 
 .modal-body {
-  background: $background-pale;
+  background: floralwhite;
 }
